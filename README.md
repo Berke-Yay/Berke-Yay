@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Berke-Yay
 - 👀 I’m interested in programming and creating console/mobile applications
-- 🌱 I’m currently learning Flutter and Java
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: yayber.26@robcol.k12.tr
 
 <!---
